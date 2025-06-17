@@ -17,8 +17,6 @@ This project covers full implementation of a feedforward neural network includin
 - [NumPy](https://numpy.org/) – numerical operations and vector math
 - [Matplotlib](https://matplotlib.org/) – image visualization of sample digits
 - [Scikit-learn](https://scikit-learn.org/stable/) – only used to load the MNIST dataset via `fetch_openml`
-- [Google Colab](https://colab.research.google.com/) – for running the `.ipynb` notebook interactively
-- [OpenML](https://www.openml.org/d/554) – MNIST dataset source
 
 > This project does not use any front-end, UI libraries, or custom fonts.
 
