@@ -24,10 +24,9 @@ This project covers full implementation of a feedforward neural network includin
 
 ## 📁 Project Structure
 
-- **`mnist_numpy_nn.ipynb`** – Implements data loading, preprocessing, training, forward/backward propagation, and experiments.
+- **`mnist_classifier_in_numpy.py`** – Implements data loading, preprocessing, training, forward/backward propagation, and experiments.
 - **`/images/`** – Use this to store training visualizations or example outputs.
-- **`/notebooks/`** – Useful for extensions, alternate models, or comparative studies.
-
+- 
 ## 📌 Note
 
 This project is designed for educational purposes and low-level understanding of how neural networks work internally. It avoids any deep learning abstraction layers and is ideal for developers looking to demystify backpropagation and activation logic.
